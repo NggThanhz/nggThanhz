@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Thành
 
-<!--
-**NggThanhz/nggThanhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | Game Hack Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- Developing **game mods & automation tools**  
+- Exploring **system-level software & hardware spoofing**  
+
+### 🌱 Currently Learning
+- Advanced **C# & Python** techniques  
+- Kernel-level programming for **custom software utilities**  
+
+### 👯 Looking to Collaborate On
+- Cool projects related to **automation, AI bots, or performance optimizations**  
+- Anything that pushes limits and bends the system rules 💥  
+
+### 🤔 Ask Me About
+- Game hacking, memory manipulation, and **hardware-level tweaks**  
+- Python scripts for automation and optimization  
+- Overcoming annoying software/game restrictions  
+
+### ⚡ Fun Fact
+- I can make a software do things most people think are impossible 🤫  
+- Always experimenting with tech in my own unique way  
+
+📫 **How to Reach Me**
+- GitHub: [nggThanhz](https://github.com/nggThanhz)  
+- Email: longnt09@student.bvu.edu.vn
+
+---
+
+“Code, hack, repeat.” 💀
